@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Laravel / PHP
+/backend/vendor/
+/backend/.env
+
+# Vue / Node.js
+/frontend/node_modules/
+/frontend/dist/
+
+# IDEs and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
